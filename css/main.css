@@ -970,6 +970,7 @@ a {
   margin: 0;
 }
 .reviews__text {
+  margin: 0;
   color: var(--light-color);
   font-size: 36px;
   font-weight: 400;
